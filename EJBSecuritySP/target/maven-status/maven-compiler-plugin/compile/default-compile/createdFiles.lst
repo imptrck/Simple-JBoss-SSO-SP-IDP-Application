@@ -1,0 +1,3 @@
+testapp/rest/RestRoot.class
+testapp/ejb/SecuredStatelessBean.class
+testapp/rest/SecuredRest.class

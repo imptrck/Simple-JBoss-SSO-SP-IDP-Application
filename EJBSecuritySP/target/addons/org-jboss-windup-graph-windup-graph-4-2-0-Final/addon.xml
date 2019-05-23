@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<addon>
+  <dependencies>
+    <dependency export="false" name="org.jboss.windup.utils:windup-utils" optional="false" version="4.2.0.Final"/>
+    <dependency export="false" name="org.jboss.forge.furnace.container:simple" optional="false" version="2.26.2.Final"/>
+  </dependencies>
+</addon>

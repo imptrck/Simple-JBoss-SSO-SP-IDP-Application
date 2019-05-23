@@ -1,0 +1,4 @@
+<jboss-web>
+  <security-domain>sp</security-domain>
+  <context-root>sales-post</context-root>
+</jboss-web>
