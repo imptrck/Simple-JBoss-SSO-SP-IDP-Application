@@ -7,3 +7,8 @@ Use Maven to compile and deploy with the following command with the EAP 7 server
 'mvn clean package wildfly:deploy'
 
 
+#### Testing the application
+
+Access https://<ip>:<port>/sales-post/rest/test, authenticate with the user set up previously and there you go.
+  
+ 
